@@ -1,0 +1,2 @@
+# Collatz-Conjecture
+This will check numbers to see if the Collatz Conjecture is true. Note: I made this just as a fun personal challenge and as a place for people to contribute to open source projects. In case you don't know what the Collatz Conjecture is, it says that for any number, if you divide even numbers by 2, and multiply odd numbers by 3 and add 1, it will never end. This program's goal is to varify numbers as efficiently as possible.
